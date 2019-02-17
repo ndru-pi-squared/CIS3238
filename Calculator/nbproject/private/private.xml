@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="Calculator">
+            <file>file:/Users/Andrew/NetBeansProjects/Calculator/src/computeImpl/ComputeImpl.java</file>
+            <file>file:/Users/Andrew/NetBeansProjects/Calculator/src/calculator/Calculator.java</file>
+            <file>file:/Users/Andrew/NetBeansProjects/Calculator/src/computeExample/Main.java</file>
+            <file>file:/Users/Andrew/NetBeansProjects/Calculator/src/matrixOpsExample/Main.java</file>
+            <file>file:/Users/Andrew/NetBeansProjects/Calculator/src/RPCUtil/Util.java</file>
+            <file>file:/Users/Andrew/NetBeansProjects/Calculator/src/calculator/SimpleOps.java</file>
+            <file>file:/Users/Andrew/NetBeansProjects/Calculator/test/calculator/SimpleOpsImplTest.java</file>
+            <file>file:/Users/Andrew/NetBeansProjects/Calculator/src/simpleXMLRMI/ProxyFactory.java</file>
+            <file>file:/Users/Andrew/NetBeansProjects/Calculator/src/simpleRMI/SimpleRMIProxyFactory.java</file>
+            <file>file:/Users/Andrew/NetBeansProjects/Calculator/src/simpleRMI/SimpleRMIInvocationHandler.java</file>
+            <file>file:/Users/Andrew/NetBeansProjects/Calculator/src/simpleRMIExample/Main.java</file>
+            <file>file:/Users/Andrew/NetBeansProjects/Calculator/src/calculator/MatrixOpsExample.java</file>
+            <file>file:/Users/Andrew/NetBeansProjects/Calculator/src/calculator/MatrixOps.java</file>
+            <file>file:/Users/Andrew/NetBeansProjects/Calculator/src/calculator/SimpleOpsImpl.java</file>
+            <file>file:/Users/Andrew/NetBeansProjects/Calculator/src/calculator/ProxyFactory.java</file>
+            <file>file:/Users/Andrew/NetBeansProjects/Calculator/src/matrixOpsImpl/MatrixOpsImpl.java</file>
+            <file>file:/Users/Andrew/NetBeansProjects/Calculator/src/compute/Compute.java</file>
+            <file>file:/Users/Andrew/NetBeansProjects/Calculator/src/calculator/MatrixOpsImpl.java</file>
+            <file>file:/Users/Andrew/NetBeansProjects/Calculator/src/CGIInvoke/Main.java</file>
+            <file>file:/Users/Andrew/NetBeansProjects/Calculator/src/matrixOps/MatrixOps.java</file>
+            <file>file:/Users/Andrew/NetBeansProjects/Calculator/src/simpleXMLRMI/URLHTTPConnectionFactory.java</file>
+            <file>file:/Users/Andrew/NetBeansProjects/Calculator/src/simpleXMLRMI/HTTPConnectionFactory.java</file>
+            <file>file:/Users/Andrew/NetBeansProjects/Calculator/src/CGIXMLInvoke/Main.java</file>
+            <file>file:/Users/Andrew/NetBeansProjects/Calculator/src/simpleXMLRMI/SimpleRMIInvocationHandler.java</file>
+        </group>
+    </open-files>
+</project-private>
